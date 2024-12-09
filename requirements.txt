@@ -1,0 +1,7 @@
+openai
+gradio
+ffmpeg
+# pyttsx3
+# pyaudio
+fastapi
+pymongo
